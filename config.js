@@ -1,9 +1,9 @@
-global.namaown = "Qasim Ali" // your owner name here
-global.namabot = "© GlobalTechInfo" // your bot name here
+global.namaown = "Vince" // your owner name here
+global.namabot = "Bindya" // your bot name here
 global.versisc = "9.5.0" //
-global.owner = ["923444844060"] // your owner number here
-global.tele = "https://t.me/GlobalBotInc" // your telegram here
-global.url = "https://www.youtube.com/@GlobalTechInfo" // Your YouTube Here
+global.owner = ["918787487369"] // your owner number here
+global.tele = "https://t.me/Vince675" // your telegram here
+global.url = "https://youtube.com/@craftasticland?si=sk5F4PMJgZxFxWrt" // Your YouTube Here
 global.namastore = "LynnZxD" // UBAH NAMA STORE LU
 global.simbol = "✪" // You Can Change Simbol
 global.wlcm = []
@@ -14,7 +14,7 @@ global.limitawal = {
 }
 
 // Ganti Logo Disini
-global.painlogo = "http://telegra.ph/file/9a332c815ad31956d5ce6.jpg" 
+global.painlogo = "https://cdn.ironman.my.id/i/5wu1ek.jpeg" 
 
 global.my = {
       saluran: "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07",
